@@ -46,6 +46,7 @@ main p {
 main .directions {
     width: 960px;
     padding: 10px;
+    text-indent: 15px;
 }
 section .listimage {
     width: 960px;
