@@ -1,7 +1,48 @@
 .logoimage {
     float: left;
+    margin-left: 280px; 
+}
+.socialmedia{
+    margin-left: 1000px;
 }
 .socialmedia li {
     display: inline-block;
     
+}
+.mainpicture {
+    width: 960px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+main h1 {
+    font-size: 27px;
+    margin-left: 280px;
+}
+main p {
+    margin-left: 280px;
+}
+main .directions {
+    width: 960px;
+    padding: 10px;
+}
+section .listimage {
+    width: 960px;
+    display: block;
+    margin-left: 280px;
+    position: absolute;
+    padding-top: 10px;
+    z-index: 1;
+}
+section .list1 {
+    position: absolute;
+    margin-left: 280px;
+    
+    z-index: 2;
+}
+section .list2 {
+    position: absolute;
+    margin-left: 560px;
+    z-index: 3;
 }
